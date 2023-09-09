@@ -39,8 +39,8 @@ import java.util.List;
 @RestController
 @RequestMapping("/question")
 @Slf4j
-// @CrossOrigin(origins = "http://localhost:8080", allowCredentials = "true")
-@CrossOrigin(origins = "http://oj.kongshier.top", allowCredentials = "true")
+@CrossOrigin(origins = "http://localhost:8080", allowCredentials = "true")
+// @CrossOrigin(origins = "http://oj.kongshier.top", allowCredentials = "true")
 public class QuestionController {
 
     @Resource

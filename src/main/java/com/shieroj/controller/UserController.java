@@ -38,8 +38,8 @@ import java.util.List;
 @RequestMapping("/user")
 @Api(tags = "UserController")
 @Slf4j
-// @CrossOrigin(origins = "http://localhost:8080", allowCredentials = "true")
-@CrossOrigin(origins = "http://oj.kongshier.top", allowCredentials = "true")
+@CrossOrigin(origins = "http://localhost:8080", allowCredentials = "true")
+// @CrossOrigin(origins = "http://oj.kongshier.top", allowCredentials = "true")
 public class UserController {
 
     @Resource

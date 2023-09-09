@@ -19,8 +19,8 @@ import javax.annotation.Resource;
 @Api(tags = "FileController")
 @RestController
 @RequestMapping("/file")
-// @CrossOrigin(origins = "http://localhost:8080", allowCredentials = "true")
-@CrossOrigin(origins = "http://oj.kongshier.top", allowCredentials = "true")
+@CrossOrigin(origins = "http://localhost:8080", allowCredentials = "true")
+// @CrossOrigin(origins = "http://oj.kongshier.top", allowCredentials = "true")
 public class FileController {
 
     @Resource

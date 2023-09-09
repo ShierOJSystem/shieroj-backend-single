@@ -22,10 +22,10 @@ public class CodeMqInitMain {
     public static void doInitCodeMq() {
         try {
             ConnectionFactory factory = new ConnectionFactory();
-            // todo 配置服务器信息
-            factory.setHost("ssssss");
-            factory.setPassword("ssssssss");
-            factory.setUsername("sssss");
+            // todo 配置远程服务MQ信息
+            factory.setHost("xxxxx");
+            factory.setPassword("xxxxx");
+            factory.setUsername("xxxxx");
             Connection connection = factory.newConnection();
             Channel channel = connection.createChannel();
             String codeExchangeName = CODE_EXCHANGE_NAME;
