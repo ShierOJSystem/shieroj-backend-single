@@ -1,32 +1,22 @@
-<center>
+<p align="center">
+<img src="https://github.com/kongshier/shierbi-backend/assets/94662685/9d677ecc-6e12-4ab1-b182-e3102d33a9d5" alt="image-20230623213937364" style="zoom:50%;" align="center" />
+</p>
 
-# Cat Online Judge
-
-![logo.png](readmeimages%2Flogo.png) 
-
-<div style="display: flex; justify-content: center;">
+<p align="center">
+<a>
+    <img src="https://img.shields.io/badge/Spring Boot-2.7.2-brightgreen.svg" alt="Spring Boot">
+    <img src="https://img.shields.io/badge/MySQL-8.0.20-orange.svg" alt="MySQL">
+    <img src="https://img.shields.io/badge/Java-1.8.0__371-blue.svg" alt="Java">
+    <img src="https://img.shields.io/badge/Redis-5.0.14-red.svg" alt="Redis">
+    <img src="https://img.shields.io/badge/RabbitMQ-3.9.11-orange.svg" alt="RabbitMQ">
+    <img src="https://img.shields.io/badge/MyBatis--Plus-3.5.2-blue.svg" alt="MyBatis-Plus">
+    <img src="https://img.shields.io/badge/Redisson-3.21.3-yellow.svg" alt="Redisson">
     <img src="https://img.shields.io/badge/Gson-3.9.1-blue.svg" alt="Gson">
     <img src="https://img.shields.io/badge/Hutool-5.8.8-green.svg" alt="Hutool">
     <img src="https://img.shields.io/badge/MyBatis-2.2.2-yellow.svg" alt="MyBatis">
-</div>
-
-<div>
-    <img src="https://img.shields.io/badge/Spring Cloud-2021.0.5-blue.svg" alt="Spring Cloud">
-    <img src="https://img.shields.io/badge/JWT-0.9.1-orange.svg" alt="JWT">
-    <img src="https://img.shields.io/badge/MySQL-8.0.20-orange.svg" alt="MySQL">
-    <img src="https://img.shields.io/badge/Java-1.8.0__371-blue.svg" alt="Java">
-</div>
-
-<div>
-    <img src="https://img.shields.io/badge/Redis-5.0.14-red.svg" alt="Redis">
-    <img src="https://img.shields.io/badge/RabbitMQ-3.9.11-orange.svg" alt="RabbitMQ">
-    <img src="https://img.shields.io/badge/Spring Boot-2.7.2-brightgreen.svg" alt="Spring Boot">
-    <img src="https://img.shields.io/badge/MyBatis--Plus-3.5.2-blue.svg" alt="MyBatis-Plus">
-    <img src="https://img.shields.io/badge/Redisson-3.21.3-yellow.svg" alt="Redisson">
-</div>
-
-</center>
-
+</a>
+</p>
+# Cat Online Judge
 > 作者：[猫十二懿](https://github.com/kongshier)
 
 ## 项目介绍
